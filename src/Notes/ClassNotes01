@@ -1,0 +1,75 @@
+Selenium Class 01
+What is Software Testing?
+-identify the quality of the application and make it bug free
+
+How many ways of Testing ?
+-automation and manual
+
+why automation?
+-cost
+-time reducing
+-better results
+
+when do we start doing automation?
+
+-manual testing
+-appliction has to be stable
+-test suites to see the requirements
+
+what are the automation tools we know?
+-Selenium,Test Ng,Cucumber,Junit,Katolan,Ranorex,uFT,rOBOT.ETC.
+
+Level of Testing
+-Unit Testing ==>dev
+-Integration Testing==> Testers
+-acceptance testing==> client
+-System testing==> Mostly devs
+
+Testing types?
+-Functional
+smoke,regression
+
+--Non Functional
+-performance ,stress,load,security testing
+
+What is Selenium ?
+
+-Automation tools to help automate web applications for functional testing
+
+-Selenium Types
+-Selenium Rc(Remote Connection)
+- Selenium Grid(Parallel Testing - Firefox Plugins
+-Selenium Ide - Integrated Development Environment
+-Selenium  WebDriver
+
+Advantages of Selenium
+-open source
+-Cross-Browser Testing ,Parallel Testing
+-We could use that in different operation systems
+-Supports Different Languages such as Phyton,Java,C+,C#,
+
+Disadvantages of Selenium
+
+-Only Web testings
+-There is no support
+-There is no reporting
+-cant automate images captcha,videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
